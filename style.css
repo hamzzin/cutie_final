@@ -163,6 +163,15 @@ top: 0px;
 left: 0px;
 }
 
+.소리 {
+width: 100%;
+max-width: 300px;
+border-radius: 10px;
+position: absolute;
+top: 10000px;
+right: 300px;
+}
+
 
 .money
 {
@@ -170,7 +179,7 @@ width: 100%;
 max-width: 450px;
 border-radius: 10px;
 position: absolute;
-top: 11800px;
+top: 11600px;
 right: 150px;
 }
 
@@ -180,7 +189,7 @@ width: 100%;
 max-width: 500px;
 border-radius: 10px;
 position: absolute;
-top: 11100px;
+top: 11000px;
 left: 100px;
 }
 
@@ -190,7 +199,7 @@ width: 100%;
 max-width: 450px;
 border-radius: 10px;
 position: absolute;
-top: 11300px;
+top: 11200px;
 left: 345px;
 }
 
@@ -288,7 +297,7 @@ width: 100%;
 max-width: 100px;
 border-radius: 10px;
 position: absolute;
-top: 13190px;
+top: 13090px;
 right: 530px;
 }
 
@@ -298,7 +307,7 @@ width: 100%;
 max-width: 80px;
 border-radius: 10px;
 position: absolute;
-top: 13100px;
+top: 13000px;
 left: 550px;
 }
 
